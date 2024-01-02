@@ -1,3 +1,5 @@
+[Demo of live site](https://lit-fic-laura.netlify.app/)
+
 # Astro Starter Kit: Minimal
 
 ```sh
